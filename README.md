@@ -1,4 +1,8 @@
-# B
+# OCS
+
+© 2025 [Alexander Shurlygin]
+This work is licensed under a Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
 
 # Ontology of Coherent States  
 ## Limit of Distinguishability and the Structure of Physical Reality

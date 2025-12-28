@@ -34,7 +34,7 @@ Future revisions or extensions, if any, will be explicitly versioned and will no
 
 - **Version:** v1.0  
 - **Status:** Fixed conceptual publication  
-- **Date:** 2025-12-28  
+- **Date:** 2025-12-27  
 
 The PDF published here represents a completed and internally consistent conceptual framework.  
 It is not a draft and is not intended to be modified retroactively.

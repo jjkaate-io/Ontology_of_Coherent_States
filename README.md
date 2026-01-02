@@ -78,3 +78,10 @@ not as a definitive conclusion.
 
 The concept is offered to the scientific and philosophical community  
 as an invitation to think, test, and reinterpret — not as a claim of final truth, but as a coherent proposal open to scrutiny, reinterpretation, and refinement.
+
+
+## Versioning note:
+
+The English version (v1.0.0 EN) is a translation of the Russian v1.0.1 document.
+No conceptual changes were introduced.
+
